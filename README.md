@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on DevOps<br>I’m looking for help with DevOps tools<br>I'm currently learning Azure DevOps<br>Ask me about 
+I'm currently working on DevOps & Data Engineering <br>I’m looking for help with DevOps & Data Engineering tools<br>I'm currently learning Azure DevOps<br>Ask me about 
 
 > https://www.linkedin.com/in/dogukan-k-09532b134/
 
