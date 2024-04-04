@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Data Engineering & DataOps <br>I’m looking for help with Data Engineering & DataOps tools<br>I'm currently learning DataOps <br>Ask me about 
+I'm currently working on Data Engineering & DataOps
 
 > https://www.linkedin.com/in/dogukan-k-09532b134/
 
